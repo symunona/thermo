@@ -1,0 +1,15 @@
+api.log
+current
+IgnoreList
+node_modules
+.sync
+.vscode
+session
+.pyc
+pyc
+temp
+mode
+measured
+-old.*
+secrets.js
+users.json

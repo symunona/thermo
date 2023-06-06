@@ -1,0 +1,1 @@
+window.openWeatherMapApiKey = '[[apiKey]]'
